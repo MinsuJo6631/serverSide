@@ -1,0 +1,1 @@
+nvidia_gpu_exporter --web.listen-address=:8004  --web.telemetry-path="/actuator/prometheus"
